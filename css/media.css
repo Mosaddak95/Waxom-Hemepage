@@ -1,0 +1,465 @@
+/*extra large device*/
+@media(min-width:1200px) and (max-width:1399.98px){
+.banner-item h1 {
+		font-size: 44px;
+		
+}
+
+
+
+
+}
+/*large device*/
+@media(min-width:992px) and (max-width:1199.98px){
+.banner-item h3 {
+		font-size: 32px;
+		
+}
+.banner-item h1 {
+	font-size: 36px;
+	
+}
+.mobile-text p {
+	padding-top: 10px;
+}
+#mobile{
+	position: relative;
+}
+.mobile-img{
+	position: absolute;
+	width: 38%;
+	left: 50px;
+	bottom: 0;
+}
+.mobile-text {
+	padding-bottom: 10px;
+}
+.blog-text h3 {
+	font-size: 18px;
+}
+
+
+
+
+
+
+
+}
+/*medium device*/
+@media(min-width:768px) and (max-width:991.98px){
+.navbar-brand img {
+        padding-top: 20px;
+}
+.navbar-toggler i{
+        color: #fff;
+        font-size: 26px;
+}
+.navbar-toggler:focus {
+	
+	box-shadow: none;
+}
+.navbar-nav {
+	
+	background-color: #c7b299;
+        margin-top: 15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-left: 0px;
+	line-height: 37px;
+	text-align: center;
+}
+.purchase-right a {
+	padding: 15px 20px;
+	
+}
+.purchase-left h3 {
+	font-size: 24px;	
+}
+.purchase-left p {
+	font-size: 16px;
+}
+.buttons {
+	text-align: center;
+}
+#mobile {
+	padding-top: 50px;
+}
+.mobile-text {
+	padding-top: 50px;
+}
+.mobile-text h2 {
+	font-size: 20px;
+    padding-bottom: 0px;
+}
+.mobile-text p {
+	font-size: 14px;
+	padding-right: 0px;
+	line-height: 24px;
+	padding-top: 10px;
+}
+.mobile-feat {
+	padding-top: 0px;
+	padding-left: 0px;
+    padding-bottom: 20px;
+}
+#mobile{
+	position: relative;
+}
+.mobile-img{
+	position: absolute;
+	width: 38%;
+	left: 30px;
+	bottom: 0;
+}
+.blog-text h3 {
+	line-height: 24px;
+}
+.slick-slide img {
+	width: 80%;
+}
+#blogs {
+	padding-top: 60px;
+	padding-bottom: 70px;
+}
+#brand {
+	padding-top: 80px;
+	padding-bottom: 55px;
+}
+#footer {
+	padding-bottom: 60px;
+	padding-top: 60px;
+}
+.copyright-left p {
+	padding-bottom: 30px;
+        
+}
+#copyright {
+	padding-top: 30px;
+	padding-bottom: 20px;
+}
+
+
+
+
+
+}
+
+
+/*small device*/
+@media(min-width:576px) and (max-width:767.98px){
+.navbar-brand img {
+        width: 160px;
+        padding-top: 10px;
+}
+.navbar-toggler i{
+        color: #fff;
+        font-size: 26px;
+}
+.navbar-toggler:focus {
+	
+	box-shadow: none;
+}
+.navbar-nav {
+	
+	background-color: #c7b299;
+        margin-top: 15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-left: 0px;
+	line-height: 37px;
+	text-align: center;
+}
+
+.banner-item h3 {
+	font-size: 20px;	
+}
+.banner-item h1 {
+	font-size: 39px;
+	line-height: 41px;
+}
+.banner-item p{
+        font-size: 13px;
+}
+.banner-item a {
+	padding: 15px 17px;
+	
+}
+.banner-contain-slider {
+	height: 88vh;
+	
+}
+#banner {
+	height: 90vh;
+	
+}
+#service {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+#mockap {
+	padding-top: 50px;
+}
+.purchase-left h3 {
+	font-size: 26px;
+	text-align: center;
+	line-height: 27px;
+}
+.purchase-left p {
+	font-size: 16px;
+	text-align: center;
+	line-height: 16px;
+}
+.purchase-right a {
+	padding: 18px 25px;
+}
+.purchase-right {
+	text-align: center !important;
+}
+.buttons .btn {
+	padding: 7px 10px;
+}
+.project-info h3 {
+	font-size: 16px;
+}
+#project {
+	padding-top: 50px;
+	padding-bottom: 70px;
+}
+#video {
+	padding-top: 100px;
+	padding-bottom: 70px;
+}
+#mobile {
+	padding-top: 50px;
+}
+.mobile-text {
+	padding-top: 50px;
+}
+.mobile-text h2 {
+	font-size: 20px;
+    padding-bottom: 0px;
+}
+.mobile-text p {
+	font-size: 14px;
+	padding-right: 0px;
+	line-height: 24px;
+	padding-top: 10px;
+}
+.mobile-feat {
+	padding-top: 0px;
+	padding-left: 0px;
+    padding-bottom: 20px;
+}
+.blog-text h3 {
+	line-height: 24px;
+}
+#blogs {
+	padding-top: 50px;
+	padding-bottom: 60px;
+}
+#brand {
+	padding-top: 80px;
+	padding-bottom: 55px;
+}
+.slick-slide img {
+	width: 80%;
+}
+#footer {
+	padding-bottom: 50px;
+	padding-top: 50px;
+}
+.footer-item img{
+        width: 160px;
+}
+.footer-item .xtra3 {
+	padding-right: 0px;
+}
+.copyright-left p {
+	padding-bottom: 10px;
+        line-height: 20px;
+}
+#copyright {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+
+}
+/*extra small device*/
+@media(max-width:575.98px){
+.navbar-brand img {
+        width: 140px;
+        padding-top: 10px;
+}
+.navbar-toggler i{
+        color: #fff;
+        font-size: 26px;
+}
+.navbar-toggler:focus {
+	
+	box-shadow: none;
+}
+.navbar-nav {
+	
+	background-color: #c7b299;
+        margin-top: 15px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+	padding-left: 0px;
+	line-height: 37px;
+	text-align: center;
+}
+
+.banner-item h3 {
+	font-size: 20px;	
+}
+.banner-item h1 {
+	font-size: 39px;
+	line-height: 41px;
+}
+.banner-item p{
+        font-size: 13px;
+}
+.banner-item a {
+	padding: 15px 17px;
+	
+}
+.banner-contain-slider {
+	height: 88vh;
+	
+}
+#banner {
+	height: 90vh;
+	
+}
+#service {
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+#mockap {
+	padding-top: 40px;
+}
+.heading h3 {
+	font-size: 26px;
+	line-height: 26px;
+}
+.heading p {
+	font-size: 15px;
+	 padding: 0px;
+}
+.purchase-left h3 {
+	font-size: 23px;
+	text-align: center;
+	line-height: 27px;
+}
+.purchase-left p {
+	font-size: 15px;
+	text-align: center;
+	line-height: 16px;
+}
+.purchase-right a {
+	padding: 15px 20px;
+}
+.purchase-right {
+	text-align: center !important;
+}
+#project {
+	padding-top: 40px;
+	padding-bottom: 65px;
+}
+.buttons .btn {
+	padding: 5px 10px;
+	margin: 5px 3px;
+}
+.buttons {
+	padding-bottom: 25px;
+	padding-top: 12px;
+	text-align: center;
+}
+.view-btn a {
+	padding: 15px 25px;
+}
+#video {
+	padding-top: 95px;
+	padding-bottom: 50px;
+}
+.video h3 {
+	font-size: 24px;
+}
+.video p {
+	font-size: 14px;
+	line-height: 24px;
+}
+#mobile {
+	padding-top: 50px;
+}
+.mobile-text {
+	padding-top: 50px;
+}
+.mobile-text h2 {
+	font-size: 20px;
+        padding-bottom: 0px;
+}
+.mobile-text p {
+	font-size: 14px;
+	padding-right: 0px;
+	line-height: 24px;
+	padding-top: 10px;
+}
+.mobile-feat {
+	padding-top: 0px;
+	padding-left: 0px;
+        padding-bottom: 20px;
+}
+.counter-item {
+        padding-top: 20px;
+}
+.counter-item h3 {
+	padding-top: 15px;
+        font-size: 40px;
+}
+.counter-item p {
+	padding-top: 8px;
+	padding-bottom: 20px;
+}
+#blogs {
+	padding-top: 40px;
+	padding-bottom: 50px;
+}
+.blog-text h3 {
+	font-size: 18px;
+}
+.arrow-icon {
+	padding-top: 25px;
+}
+.slick-slide img {
+	width: 70%;
+}
+#brand {
+	padding-top: 80px;
+	padding-bottom: 55px;
+}
+#footer {
+	padding-bottom: 40px;
+	padding-top: 40px;
+}
+.footer-item img{
+        width: 140px;
+}
+.footer-item .xtra3 {
+	padding-right: 0px;
+}
+.copyright-left p {
+	padding-bottom: 10px;
+        line-height: 20px;
+}
+#copyright {
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+
+
+
+}
